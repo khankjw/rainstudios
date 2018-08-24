@@ -32,7 +32,7 @@ audio {
   padding-bottom: 15px;
 }
 
-@media(max-width:600px) {
+@media(max-width:480px) {
   #grid {
     display: block;
     border-bottom: none;
